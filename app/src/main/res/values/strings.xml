@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">formulario de registro</string>
+    <string name="banner">Formulario de Registro</string>
+    <string name="nom">Nombre</string>
+    <string name="ape">Apellido</string>
+    <string name="email">Email</string>
+    <string name="req">(Requerido)</string>
+    <string name="sub">Suscribirse</string>
+    <string name="hint1">Escribe tu Nombre</string>
+    <string name="hint2">Escribe tu Apellido</string>
+    <string name="hint3">Escribe tu Email</string>
+</resources>
